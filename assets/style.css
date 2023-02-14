@@ -1,6 +1,7 @@
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
+  line-height: 1.0;
 }
 
 textarea {
@@ -12,13 +13,12 @@ textarea {
   padding: 10px;
 }
 
-/* .header-style {
+#header-style {
   color: #000000;
   background-color: transparent; 
-  border: 10px solid black;
+  border-bottom: 10px solid black;
   border-radius: 0%;
-  text-align: center;
-} */
+}
 
 .description {
   white-space: pre-wrap;
@@ -26,13 +26,11 @@ textarea {
 
 .time-block {
   border-radius: 15px;
-  /* text-align: center; */
 }
 
 .row {
   border-top: 1px solid white;
-  /* height: 80px;
-  white-space: pre-wrap; */
+  /* height: 70px; */
 }
 
 .hour {
@@ -72,7 +70,7 @@ textarea {
 .notification {
   visibility: hidden;
   padding: 2%;
-  color: beige;
+  color: rgb(54, 51, 140);
 }
 
 .show {
