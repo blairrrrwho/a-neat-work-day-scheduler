@@ -12,16 +12,27 @@ textarea {
   padding: 10px;
 }
 
+.header-style {
+  color: #000000;
+  background-color: transparent; 
+  border: 10px solid black;
+  border-radius: 20%;
+  text-align: center;
+}
+
 .description {
   white-space: pre-wrap;
 }
 
 .time-block {
   border-radius: 15px;
+  text-align: center;
 }
 
 .row {
   border-top: 1px solid white;
+  height: 80px;
+  white-space: pre-wrap;
 }
 
 .hour {
