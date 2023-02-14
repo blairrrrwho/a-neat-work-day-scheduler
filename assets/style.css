@@ -12,6 +12,16 @@ textarea {
   padding: 10px;
 }
 
+.notification {
+  visibility: hidden;
+  padding: 2%;
+  color: beige;
+}
+
+.show {
+  visibility: visible;
+}
+
 .header-style {
   color: #000000;
   background-color: transparent; 
