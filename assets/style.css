@@ -13,11 +13,13 @@ textarea {
   padding: 10px;
 }
 
-#header-style {
+.header-style {
   color: #000000;
   background-color: transparent; 
-  border-bottom: 10px solid black;
-  border-radius: 0%;
+  border-bottom: 5px solid black;
+  border-top: 5px solid black;
+  border-radius: 2%;
+  text-align: center;
 }
 
 .description {
@@ -37,6 +39,7 @@ textarea {
   background-color: #ffffff;
   color: #000000;
   border-top: 1px dashed #000000;
+  border-left: 2px solid black;
 }
 
 .past {
