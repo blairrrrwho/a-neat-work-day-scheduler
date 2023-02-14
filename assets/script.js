@@ -10,7 +10,7 @@ $(document).ready(function() {
     localStorage.setItem(time, value);
 
     $(".notification").addClass("show");
-    setTimeout(showNotification, 4000);
+    setTimeout(showNotification, 1500);
   });
 
   function showNotification() {
@@ -45,7 +45,6 @@ $(document).ready(function() {
 
   updateBlocks();
 
-  
   // Code to get any user input that was saved in localStorage
   // Set the values of the corresponding textarea elements
   $('#hour-5 .description').val(localStorage.getItem('hour-5'));
@@ -66,7 +65,5 @@ $(document).ready(function() {
 
   // Code that will display the current date in the header of the page
   $('#currentDay').text(dayjs().format('ddd, MMM D, YYYY'));
-
-
 
 });

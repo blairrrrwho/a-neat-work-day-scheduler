@@ -67,6 +67,7 @@ textarea {
   transition: all 0.3s ease-in-out;
 }
 
+/* Added for notificaiton when you click the save button */
 .notification {
   visibility: hidden;
   padding: 2%;
