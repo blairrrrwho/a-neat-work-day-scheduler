@@ -32,7 +32,8 @@ https://blairrrrwho.github.io/the-neat-work-day-scheduler/
 ## Credits
 
 I'd like to thank all of my fellow classmates for their support and help throughout the development of this application. 
-Just to list a few...: 
+Just to list a few...
+
 Christina Hall, BJ Thompson, Lacey Angarita, Terry Lequernaque, Cailen Hamm, Joshua Pierre, Vincent Teune, and Sandy Smith
 
 
