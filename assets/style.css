@@ -12,37 +12,27 @@ textarea {
   padding: 10px;
 }
 
-.notification {
-  visibility: hidden;
-  padding: 2%;
-  color: beige;
-}
-
-.show {
-  visibility: visible;
-}
-
-.header-style {
+/* .header-style {
   color: #000000;
   background-color: transparent; 
   border: 10px solid black;
   border-radius: 0%;
   text-align: center;
-}
+} */
 
 .description {
   white-space: pre-wrap;
 }
 
-.time-block {
+/* .time-block {
   border-radius: 15px;
   text-align: center;
-}
+} */
 
 .row {
   border-top: 1px solid white;
-  height: 80px;
-  white-space: pre-wrap;
+  /* height: 80px;
+  white-space: pre-wrap; */
 }
 
 .hour {
@@ -77,4 +67,13 @@ textarea {
 .saveBtn i:hover {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
+}
+.notification {
+  visibility: hidden;
+  padding: 2%;
+  color: beige;
+}
+
+.show {
+  visibility: visible;
 }
