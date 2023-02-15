@@ -21,8 +21,9 @@ A neat feature about this application is that it locally stores the data the use
 If you open up the console, you can find the user input data in the local storage.  
 
 
-## Deployed URL:
-https://blairrrrwho.github.io/the-neat-work-day-scheduler/ 
+## Deployment
+
+**Live URL: <a href="https://blairrrrwho.github.io/the-neat-work-day-scheduler/">The Neat Work Day Scheduler</a>**
 
 
 ![The Neat Work Day Scheduler Screenshot](./assets/images/screenshot_.png)
